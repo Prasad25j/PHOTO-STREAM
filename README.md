@@ -186,7 +186,7 @@ Installation
 Clone this repository to your local machine by running the below command:
 
 ```
-git clone https://github.com/Ak-Srivastav/Photo-Stream.git
+git clone https://github.com/Prasad25j/Photo-Stream.git
 ```
 
 ### Create a .env file in the root directory and client directory and add the required environment variables. Refer to the .env.example file for the list of variables required.
